@@ -1,0 +1,42 @@
+Terget Thomann
+thomann.de
+Utilizando whois ho scoperto questo IP Address 212.204.75.161 )
+e l'ho cercato su Shodan
+sotto è riportato il risultato della ricerca:
+Country Germany
+City 	Munich
+Organization 	Thomann Bits & Beats GmbH
+ISP 	M-net Telekommunikations GmbH
+ASN 	AS8767
+OpenPorts
+80 e 443 .
+
+Cercando Thomann Bits & Beats GmbH ho scoperto la sezione tech thomann.io
+e l'ho cercata su whois:
+Registrar InternetX
+IANA ID: 800087
+URL: —
+Whois Server: —
+
+(p)
+Registrar Status 	clientTransferProhibited
+Dates 	3,443 days old
+Created on 2014-10-22
+Expires on 2024-10-22
+Updated on 2023-12-06 	
+  
+Name Servers 	A.NS14.NET (has 601,260 domains)
+B.NS14.NET (has 601,260 domains)
+C.NS14.NET (has 601,260 domains)
+D.NS14.NET (has 601,260 domains)
+	
+Reverse NS   
+IP Address 	35.234.109.94 - 12 other sites hosted on this server
+	
+  
+IP Location 	Germany - Hessen - Frankfurt Am Main - Google
+ASN 	Germany AS396982 GOOGLE-CLOUD-PLATFORM, US (registered Aug 15, 2018)
+
+in fine ho cercato il CEO su Google (Hans Thomann) che mi ha portato ad innumerevoli articoli su questultimo, scoprendo che Thomann è una holding familiare.
+
+
